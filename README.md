@@ -1,4 +1,4 @@
-# DataFileExample
+# SetupFileExample
 
 Examples on how to manipulate setup files in python packages. 
 
