@@ -8,8 +8,5 @@ setup(
         "console_scripts": [
             'show = show_content:run_cli'
         ]
-    },
-    package_data={
-        '': ['file.txt']
     }
 )
